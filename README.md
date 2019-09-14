@@ -1,5 +1,5 @@
 # LineBot
 自動返信をしてくれるLineBotです。
 
-ID : @736rahuj
-[Account](line bot.png)
+ID : @736rahuj <br>
+![Account](line bot.png)
