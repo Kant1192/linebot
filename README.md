@@ -2,4 +2,4 @@
 自動返信をしてくれるLineBotです。
 
 ID : @736rahuj
-[Account]()
+[Account](line bot.png)
