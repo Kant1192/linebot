@@ -6,10 +6,11 @@ import os
 
 app = Flask(__name__)
 
+# とりあえず隠しておきます
 #TOKEN
-line_bot_api = LineBotApi("EehKZVJEnoMsmRZLHZDbaZHOfUvWsBn8eIEY9FnNIe+hoq1gdCWnFI3aYaLRS2DVvCT3EAfyt7yqW0ujDW/248Jk/KT/yaxmk800m5HudLrPGdqlhoOvV6MvSgaiDtvjCOh0UHqplS32TCVDXMJqngdB04t89/1O/w1cDnyilFU=")
+line_bot_api = LineBotApi("token_number : ")
 #CHANNEL_SECLET
-handler = WebhookHandler("8d72b53329c11a0f75ef870ee8f040f5")
+handler = WebhookHandler("channel_number : ")
 
 
 @app.route("/callback", methods=['POST'])
